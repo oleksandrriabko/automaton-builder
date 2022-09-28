@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+body.cabinet-page {
+  height: auto;
+  overflow: initial;
+}
+
+#root,
+.App {
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
